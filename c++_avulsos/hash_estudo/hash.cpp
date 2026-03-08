@@ -61,4 +61,4 @@ void Hash::print(){
             std::cout << estrutura[i].obterNome(); //Mostra qual o nome do aluno
         }
     }
-}
+};
