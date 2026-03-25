@@ -1,6 +1,6 @@
 import java.util.Locale;
 import java.util.Scanner;
-public class main23 {
+public class bee1037 {
     public static void main(String[] args) {
         Locale.setDefault(Locale.US);
         Scanner sc = new Scanner(System.in);
