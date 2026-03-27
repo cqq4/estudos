@@ -8,7 +8,7 @@ public class bee1047 {
         c = sc.nextInt();
         d = sc.nextInt();
         inicio = a*60 + b;
-        fim = c*60 + d;
+        fim = c*60 + d;ti
         if (fim <= inicio){
             fim +=24*60;
         }
