@@ -1,0 +1,71 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "bee1158",
+            "request": "launch",
+            "mainClass": "bee1158",
+            "projectName": "estudos_ab02f3bf"
+        },
+        {
+            "type": "java",
+            "name": "bee1101",
+            "request": "launch",
+            "mainClass": "bee1101",
+            "projectName": "estudos_ab02f3bf"
+        },
+        {
+            "type": "java",
+            "name": "bee1146",
+            "request": "launch",
+            "mainClass": "bee1146",
+            "projectName": "estudos_ab02f3bf"
+        },
+        {
+            "type": "java",
+            "name": "bee1145",
+            "request": "launch",
+            "mainClass": "bee1145",
+            "projectName": "estudos_ab02f3bf"
+        },
+        {
+            "type": "java",
+            "name": "bee1144",
+            "request": "launch",
+            "mainClass": "bee1144",
+            "projectName": "estudos_ab02f3bf"
+        },
+        {
+            "type": "java",
+            "name": "bee1143",
+            "request": "launch",
+            "mainClass": "bee1143",
+            "projectName": "estudos_ab02f3bf"
+        },
+        {
+            "type": "java",
+            "name": "bee1142",
+            "request": "launch",
+            "mainClass": "bee1142",
+            "projectName": "estudos_ab02f3bf"
+        },
+        {
+            "type": "java",
+            "name": "bee1094",
+            "request": "launch",
+            "mainClass": "bee1094",
+            "projectName": "estudos_ab02f3bf"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}",
+            "console": "integratedTerminal"
+        }
+    ]
+}
