@@ -1,11 +1,11 @@
 package entities;
 
-public class Stock {;
+public class Stock {
     public String name;
     public double price;
     public int quantity;
 
-    public double totalValueInStock(double price, int quantity){
+    public double totalValueInStock(){
         return price * quantity;
     }
 
@@ -24,6 +24,6 @@ public class Stock {;
             + ", "
             + quantity
             + " units, Total: $ "
-            + String.format("%.2f", totalValueInStock(price, quantity));
+            + String.format("%.2f", totalValueInStock());
     }
 }
