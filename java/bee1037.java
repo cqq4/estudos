@@ -18,4 +18,10 @@ public class bee1037 {
         }
         sc.close();
     }
+
+    public static class main58 {
+        public static void main (String[] args){
+
+        }
+    }
 }
